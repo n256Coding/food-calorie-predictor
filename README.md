@@ -31,5 +31,5 @@ These are the prerequisites that that should meet before runnnig this applicatio
 
 
 ## Dataset Files
-* `nutrition dataset.csv` is the original dataset which was downloded from the (data.world)[https://data.world/craigkelly/usda-national-nutrient-db]
+* `nutrition dataset.csv` is the original dataset which was downloded from the [data.world](https://data.world/craigkelly/usda-national-nutrient-db)
 * `preprocessed_nutrition_dataset.csv` is the preprocessed dataset out of the original dataset. this is used in dashboard.
